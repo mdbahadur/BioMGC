@@ -1,0 +1,15 @@
+Package: EBIOC
+Type: Package
+Version: 1.0.0
+Date: 2020-04-10
+Title: Extraction of Biomarker Co-clusters using Individual Control Chart
+Author: Md Bahadur Badsha [aut,cre],Mohammad Nazmol hasan [aut] and Md. Nurul Haque Mollah [aut]
+Maintainer: Md Bahadur Badsha <mdbadsha@uidaho.edu>
+Description: Function for Calculating Co-cluster Means, Ranking Them and Their Corresponding Gene and Compound Clusters,Extraction of 
+             Biomarker Co-clusters using using Individual Control Chart. 
+License: GPL (>= 2)
+Depends: R (>= 3.0)
+LazyData: TRUE
+Imports:stats
+NeedsCompilation: no
+Packaged: 2020-04-10 18:07:43 UTC; mdbadsha
